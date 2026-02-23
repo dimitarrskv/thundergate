@@ -126,8 +126,8 @@ importers:
         specifier: ^1.0.7
         version: 1.0.7(tailwindcss@3.4.19(tsx@4.21.0))
       zod:
-        specifier: ^3.23.0
-        version: 3.25.76
+        specifier: ^4.3.6
+        version: 4.3.6
     devDependencies:
       '@playwright/test':
         specifier: ^1.58.2
@@ -163,8 +163,8 @@ importers:
         specifier: ^3.4.0
         version: 3.4.8
       zod:
-        specifier: ^3.23.0
-        version: 3.25.76
+        specifier: ^4.3.6
+        version: 4.3.6
     devDependencies:
       '@types/node':
         specifier: ^25.2.3
@@ -237,8 +237,8 @@ importers:
         specifier: ^7.3.0
         version: 7.22.0
       zod:
-        specifier: ^3.23.0
-        version: 3.25.76
+        specifier: ^4.3.6
+        version: 4.3.6
     devDependencies:
       '@types/node':
         specifier: ^25.2.3
@@ -4128,8 +4128,8 @@ packages:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
 
-  zod@3.25.76:
-    resolution: {integrity: sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ==}
+  zod@4.3.6:
+    resolution: {integrity: sha512-rftlrkhHZOcjDwkGlnUtZZkvaPHCsDATp4pGpuOOMDaTdDDXF91wuVDJoWoPsKX/3YPQ5fHuF3STjcYyKr+Qhg==}
 
 snapshots:
 
@@ -8072,4 +8072,4 @@ snapshots:
 
   yocto-queue@0.1.0: {}
 
-  zod@3.25.76: {}
+  zod@4.3.6: {}
